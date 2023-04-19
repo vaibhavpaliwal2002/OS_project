@@ -46,3 +46,6 @@ location of the incident, type of anomaly detected and severity.
 
 Additionally the system is also capable of running facial recognition to 
 identify suspected criminals.
+
+## Reference
+https://www.google.com/url?sa=t&source=web&rct=j&url=https://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf&ved=2ahUKEwju14beo7X-AhXWSmwGHRwlBOkQFnoECBMQAQ&usg=AOvVaw1HXHzxENqssoWj4sNtQkJU
